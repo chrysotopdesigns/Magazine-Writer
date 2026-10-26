@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Timeline and Event Reconstruction**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Timeline and Event Reconstruction within Scene Reconstruction practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Timeline and Event Reconstruction and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Timeline and Event Reconstruction**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Timeline and Event Reconstruction, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Timeline and Event Reconstruction environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Timeline and Event Reconstruction**
+
+**Summary:** Hands-on core techniques of Timeline and Event Reconstruction applied to small realistic Scene Reconstruction projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Timeline and Event Reconstruction techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Timeline and Event Reconstruction**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Timeline and Event Reconstruction work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Timeline and Event Reconstruction patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Timeline and Event Reconstruction**
+
+**Summary:** How to verify Timeline and Event Reconstruction work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Timeline and Event Reconstruction work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Timeline and Event Reconstruction**
+
+**Summary:** Using Timeline and Event Reconstruction inside larger Scene Reconstruction workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Timeline and Event Reconstruction outputs into a larger Scene Reconstruction workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Timeline and Event Reconstruction**
+
+**Summary:** Advanced methods in Timeline and Event Reconstruction for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Timeline and Event Reconstruction methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Timeline and Event Reconstruction**
+
+**Summary:** Making Timeline and Event Reconstruction work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Timeline and Event Reconstruction work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Timeline and Event Reconstruction**
+
+**Summary:** Protecting Timeline and Event Reconstruction work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Timeline and Event Reconstruction work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Timeline and Event Reconstruction**
+
+**Summary:** Making Timeline and Event Reconstruction work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Timeline and Event Reconstruction work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Timeline and Event Reconstruction**
+
+**Summary:** Realistic Scene Reconstruction case studies using Timeline and Event Reconstruction under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Timeline and Event Reconstruction results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Timeline and Event Reconstruction**
+
+**Summary:** Expert-level judgment in Timeline and Event Reconstruction, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Timeline and Event Reconstruction work with portfolio-ready proof.

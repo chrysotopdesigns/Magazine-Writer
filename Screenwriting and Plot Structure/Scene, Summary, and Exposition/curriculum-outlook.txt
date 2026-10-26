@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Scene, Summary, and Exposition**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Scene, Summary, and Exposition within Screenwriting and Plot Structure practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Scene, Summary, and Exposition and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Scene, Summary, and Exposition**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Scene, Summary, and Exposition, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Scene, Summary, and Exposition environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Scene, Summary, and Exposition**
+
+**Summary:** Hands-on core techniques of Scene, Summary, and Exposition applied to small realistic Screenwriting and Plot Structure projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Scene, Summary, and Exposition techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Scene, Summary, and Exposition**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Scene, Summary, and Exposition work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Scene, Summary, and Exposition patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Scene, Summary, and Exposition**
+
+**Summary:** How to verify Scene, Summary, and Exposition work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Scene, Summary, and Exposition work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Scene, Summary, and Exposition**
+
+**Summary:** Using Scene, Summary, and Exposition inside larger Screenwriting and Plot Structure workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Scene, Summary, and Exposition outputs into a larger Screenwriting and Plot Structure workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Scene, Summary, and Exposition**
+
+**Summary:** Advanced methods in Scene, Summary, and Exposition for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Scene, Summary, and Exposition methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Scene, Summary, and Exposition**
+
+**Summary:** Making Scene, Summary, and Exposition work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Scene, Summary, and Exposition work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Scene, Summary, and Exposition**
+
+**Summary:** Protecting Scene, Summary, and Exposition work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Scene, Summary, and Exposition work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Scene, Summary, and Exposition**
+
+**Summary:** Making Scene, Summary, and Exposition work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Scene, Summary, and Exposition work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Scene, Summary, and Exposition**
+
+**Summary:** Realistic Screenwriting and Plot Structure case studies using Scene, Summary, and Exposition under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Scene, Summary, and Exposition results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Scene, Summary, and Exposition**
+
+**Summary:** Expert-level judgment in Scene, Summary, and Exposition, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Scene, Summary, and Exposition work with portfolio-ready proof.

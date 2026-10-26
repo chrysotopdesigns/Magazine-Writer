@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Evidence-Based Empathy Maps**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Evidence-Based Empathy Maps within Active Listening and Empathy Mapping practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Evidence-Based Empathy Maps and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Evidence-Based Empathy Maps**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Evidence-Based Empathy Maps, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Evidence-Based Empathy Maps environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Evidence-Based Empathy Maps**
+
+**Summary:** Hands-on core techniques of Evidence-Based Empathy Maps applied to small realistic Active Listening and Empathy Mapping projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Evidence-Based Empathy Maps techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Evidence-Based Empathy Maps**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Evidence-Based Empathy Maps work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Evidence-Based Empathy Maps patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Evidence-Based Empathy Maps**
+
+**Summary:** How to verify Evidence-Based Empathy Maps work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Evidence-Based Empathy Maps work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Evidence-Based Empathy Maps**
+
+**Summary:** Using Evidence-Based Empathy Maps inside larger Active Listening and Empathy Mapping workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Evidence-Based Empathy Maps outputs into a larger Active Listening and Empathy Mapping workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Evidence-Based Empathy Maps**
+
+**Summary:** Advanced methods in Evidence-Based Empathy Maps for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Evidence-Based Empathy Maps methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Evidence-Based Empathy Maps**
+
+**Summary:** Making Evidence-Based Empathy Maps work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Evidence-Based Empathy Maps work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Evidence-Based Empathy Maps**
+
+**Summary:** Protecting Evidence-Based Empathy Maps work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Evidence-Based Empathy Maps work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Evidence-Based Empathy Maps**
+
+**Summary:** Making Evidence-Based Empathy Maps work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Evidence-Based Empathy Maps work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Evidence-Based Empathy Maps**
+
+**Summary:** Realistic Active Listening and Empathy Mapping case studies using Evidence-Based Empathy Maps under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Evidence-Based Empathy Maps results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Evidence-Based Empathy Maps**
+
+**Summary:** Expert-level judgment in Evidence-Based Empathy Maps, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Evidence-Based Empathy Maps work with portfolio-ready proof.

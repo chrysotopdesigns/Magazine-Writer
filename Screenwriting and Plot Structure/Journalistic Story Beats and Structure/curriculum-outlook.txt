@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Journalistic Story Beats and Structure**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Journalistic Story Beats and Structure within Screenwriting and Plot Structure practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Journalistic Story Beats and Structure and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Journalistic Story Beats and Structure**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Journalistic Story Beats and Structure, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Journalistic Story Beats and Structure environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Journalistic Story Beats and Structure**
+
+**Summary:** Hands-on core techniques of Journalistic Story Beats and Structure applied to small realistic Screenwriting and Plot Structure projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Journalistic Story Beats and Structure techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Journalistic Story Beats and Structure**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Journalistic Story Beats and Structure work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Journalistic Story Beats and Structure patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Journalistic Story Beats and Structure**
+
+**Summary:** How to verify Journalistic Story Beats and Structure work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Journalistic Story Beats and Structure work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Journalistic Story Beats and Structure**
+
+**Summary:** Using Journalistic Story Beats and Structure inside larger Screenwriting and Plot Structure workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Journalistic Story Beats and Structure outputs into a larger Screenwriting and Plot Structure workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Journalistic Story Beats and Structure**
+
+**Summary:** Advanced methods in Journalistic Story Beats and Structure for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Journalistic Story Beats and Structure methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Journalistic Story Beats and Structure**
+
+**Summary:** Making Journalistic Story Beats and Structure work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Journalistic Story Beats and Structure work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Journalistic Story Beats and Structure**
+
+**Summary:** Protecting Journalistic Story Beats and Structure work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Journalistic Story Beats and Structure work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Journalistic Story Beats and Structure**
+
+**Summary:** Making Journalistic Story Beats and Structure work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Journalistic Story Beats and Structure work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Journalistic Story Beats and Structure**
+
+**Summary:** Realistic Screenwriting and Plot Structure case studies using Journalistic Story Beats and Structure under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Journalistic Story Beats and Structure results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Journalistic Story Beats and Structure**
+
+**Summary:** Expert-level judgment in Journalistic Story Beats and Structure, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Journalistic Story Beats and Structure work with portfolio-ready proof.

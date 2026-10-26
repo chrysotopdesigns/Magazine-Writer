@@ -1,0 +1,15 @@
+1. Global Trade and Supply Chain Fundamentals - Explains how goods, services, and inputs move across borders.
+2. Commodity Markets and Price Formation - Connects supply, demand, inventories, and benchmarks to price changes.
+3. Shipping Lanes, Ports, and Logistics - Shows how transport systems shape availability and cost.
+4. Energy, Agriculture, and Extractive Industries - Builds sector knowledge for reporting on key traded resources.
+5. Trade Policy, Tariffs, and Sanctions - Explains policy measures and their practical effects on trade.
+6. Labor Conditions and Supply Chain Accountability - Investigates worker impacts using evidence and responsible sourcing.
+7. Supply Chain Mapping and Company Research - Traces suppliers, buyers, and dependencies across complex networks.
+8. Corporate Sourcing and Disclosure Analysis - Tests company claims against filings, audits, and independent records.
+9. Trade, Shipping, and Commodity Data - Uses datasets carefully while checking definitions and missing coverage.
+10. Geopolitical Risk and Conflict Reporting - Connects political events to supply constraints without oversimplifying causality.
+11. Scarcity, Substitution, and Price Transmission - Explains how shortages affect producers, consumers, and markets.
+12. Interviews with Workers and Industry Sources - Gathers informed perspectives while protecting vulnerable participants.
+13. Verification, Field Safety, and Source Protection - Supports accurate reporting in sensitive or high-risk environments.
+14. Climate, Environment, and Resource Chains - Examines environmental impacts across production and transport.
+15. Writing Global Supply Chain Stories - Turns complex trade systems into clear, substantiated narratives.

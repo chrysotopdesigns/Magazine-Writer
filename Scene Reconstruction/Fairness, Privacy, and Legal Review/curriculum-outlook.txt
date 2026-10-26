@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Fairness, Privacy, and Legal Review**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Fairness, Privacy, and Legal Review within Scene Reconstruction practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Fairness, Privacy, and Legal Review and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Fairness, Privacy, and Legal Review**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Fairness, Privacy, and Legal Review, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Fairness, Privacy, and Legal Review environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Fairness, Privacy, and Legal Review**
+
+**Summary:** Hands-on core techniques of Fairness, Privacy, and Legal Review applied to small realistic Scene Reconstruction projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Fairness, Privacy, and Legal Review techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Fairness, Privacy, and Legal Review**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Fairness, Privacy, and Legal Review work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Fairness, Privacy, and Legal Review patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Fairness, Privacy, and Legal Review**
+
+**Summary:** How to verify Fairness, Privacy, and Legal Review work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Fairness, Privacy, and Legal Review work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Fairness, Privacy, and Legal Review**
+
+**Summary:** Using Fairness, Privacy, and Legal Review inside larger Scene Reconstruction workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Fairness, Privacy, and Legal Review outputs into a larger Scene Reconstruction workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Fairness, Privacy, and Legal Review**
+
+**Summary:** Advanced methods in Fairness, Privacy, and Legal Review for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Fairness, Privacy, and Legal Review methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Fairness, Privacy, and Legal Review**
+
+**Summary:** Making Fairness, Privacy, and Legal Review work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Fairness, Privacy, and Legal Review work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Fairness, Privacy, and Legal Review**
+
+**Summary:** Protecting Fairness, Privacy, and Legal Review work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Fairness, Privacy, and Legal Review work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Fairness, Privacy, and Legal Review**
+
+**Summary:** Making Fairness, Privacy, and Legal Review work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Fairness, Privacy, and Legal Review work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Fairness, Privacy, and Legal Review**
+
+**Summary:** Realistic Scene Reconstruction case studies using Fairness, Privacy, and Legal Review under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Fairness, Privacy, and Legal Review results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Fairness, Privacy, and Legal Review**
+
+**Summary:** Expert-level judgment in Fairness, Privacy, and Legal Review, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Fairness, Privacy, and Legal Review work with portfolio-ready proof.

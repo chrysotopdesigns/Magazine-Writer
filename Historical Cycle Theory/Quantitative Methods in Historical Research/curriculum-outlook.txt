@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Quantitative Methods in Historical Research**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Quantitative Methods in Historical Research within Historical Cycle Theory practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Quantitative Methods in Historical Research and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Quantitative Methods in Historical Research**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Quantitative Methods in Historical Research, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Quantitative Methods in Historical Research environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Quantitative Methods in Historical Research**
+
+**Summary:** Hands-on core techniques of Quantitative Methods in Historical Research applied to small realistic Historical Cycle Theory projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Quantitative Methods in Historical Research techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Quantitative Methods in Historical Research**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Quantitative Methods in Historical Research work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Quantitative Methods in Historical Research patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Quantitative Methods in Historical Research**
+
+**Summary:** How to verify Quantitative Methods in Historical Research work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Quantitative Methods in Historical Research work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Quantitative Methods in Historical Research**
+
+**Summary:** Using Quantitative Methods in Historical Research inside larger Historical Cycle Theory workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Quantitative Methods in Historical Research outputs into a larger Historical Cycle Theory workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Quantitative Methods in Historical Research**
+
+**Summary:** Advanced methods in Quantitative Methods in Historical Research for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Quantitative Methods in Historical Research methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Quantitative Methods in Historical Research**
+
+**Summary:** Making Quantitative Methods in Historical Research work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Quantitative Methods in Historical Research work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Quantitative Methods in Historical Research**
+
+**Summary:** Protecting Quantitative Methods in Historical Research work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Quantitative Methods in Historical Research work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Quantitative Methods in Historical Research**
+
+**Summary:** Making Quantitative Methods in Historical Research work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Quantitative Methods in Historical Research work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Quantitative Methods in Historical Research**
+
+**Summary:** Realistic Historical Cycle Theory case studies using Quantitative Methods in Historical Research under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Quantitative Methods in Historical Research results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Quantitative Methods in Historical Research**
+
+**Summary:** Expert-level judgment in Quantitative Methods in Historical Research, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Quantitative Methods in Historical Research work with portfolio-ready proof.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Source Development and Protection**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Source Development and Protection within Investigative Forensics practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Source Development and Protection and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Source Development and Protection**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Source Development and Protection, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Source Development and Protection environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Source Development and Protection**
+
+**Summary:** Hands-on core techniques of Source Development and Protection applied to small realistic Investigative Forensics projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Source Development and Protection techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Source Development and Protection**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Source Development and Protection work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Source Development and Protection patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Source Development and Protection**
+
+**Summary:** How to verify Source Development and Protection work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Source Development and Protection work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Source Development and Protection**
+
+**Summary:** Using Source Development and Protection inside larger Investigative Forensics workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Source Development and Protection outputs into a larger Investigative Forensics workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Source Development and Protection**
+
+**Summary:** Advanced methods in Source Development and Protection for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Source Development and Protection methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Source Development and Protection**
+
+**Summary:** Making Source Development and Protection work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Source Development and Protection work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Source Development and Protection**
+
+**Summary:** Protecting Source Development and Protection work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Source Development and Protection work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Source Development and Protection**
+
+**Summary:** Making Source Development and Protection work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Source Development and Protection work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Source Development and Protection**
+
+**Summary:** Realistic Investigative Forensics case studies using Source Development and Protection under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Source Development and Protection results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Source Development and Protection**
+
+**Summary:** Expert-level judgment in Source Development and Protection, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Source Development and Protection work with portfolio-ready proof.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Technology Monopolies and Platform Power**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Technology Monopolies and Platform Power within Sociology of Power practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Technology Monopolies and Platform Power and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Technology Monopolies and Platform Power**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Technology Monopolies and Platform Power, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Technology Monopolies and Platform Power environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Technology Monopolies and Platform Power**
+
+**Summary:** Hands-on core techniques of Technology Monopolies and Platform Power applied to small realistic Sociology of Power projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Technology Monopolies and Platform Power techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Technology Monopolies and Platform Power**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Technology Monopolies and Platform Power work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Technology Monopolies and Platform Power patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Technology Monopolies and Platform Power**
+
+**Summary:** How to verify Technology Monopolies and Platform Power work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Technology Monopolies and Platform Power work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Technology Monopolies and Platform Power**
+
+**Summary:** Using Technology Monopolies and Platform Power inside larger Sociology of Power workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Technology Monopolies and Platform Power outputs into a larger Sociology of Power workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Technology Monopolies and Platform Power**
+
+**Summary:** Advanced methods in Technology Monopolies and Platform Power for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Technology Monopolies and Platform Power methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Technology Monopolies and Platform Power**
+
+**Summary:** Making Technology Monopolies and Platform Power work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Technology Monopolies and Platform Power work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Technology Monopolies and Platform Power**
+
+**Summary:** Protecting Technology Monopolies and Platform Power work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Technology Monopolies and Platform Power work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Technology Monopolies and Platform Power**
+
+**Summary:** Making Technology Monopolies and Platform Power work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Technology Monopolies and Platform Power work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Technology Monopolies and Platform Power**
+
+**Summary:** Realistic Sociology of Power case studies using Technology Monopolies and Platform Power under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Technology Monopolies and Platform Power results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Technology Monopolies and Platform Power**
+
+**Summary:** Expert-level judgment in Technology Monopolies and Platform Power, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Technology Monopolies and Platform Power work with portfolio-ready proof.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Geopolitical Risk and Conflict Reporting**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Geopolitical Risk and Conflict Reporting within Global Supply Chains and Commodities practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Geopolitical Risk and Conflict Reporting and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Geopolitical Risk and Conflict Reporting**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Geopolitical Risk and Conflict Reporting, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Geopolitical Risk and Conflict Reporting environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Geopolitical Risk and Conflict Reporting**
+
+**Summary:** Hands-on core techniques of Geopolitical Risk and Conflict Reporting applied to small realistic Global Supply Chains and Commodities projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Geopolitical Risk and Conflict Reporting techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Geopolitical Risk and Conflict Reporting**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Geopolitical Risk and Conflict Reporting work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Geopolitical Risk and Conflict Reporting patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Geopolitical Risk and Conflict Reporting**
+
+**Summary:** How to verify Geopolitical Risk and Conflict Reporting work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Geopolitical Risk and Conflict Reporting work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Geopolitical Risk and Conflict Reporting**
+
+**Summary:** Using Geopolitical Risk and Conflict Reporting inside larger Global Supply Chains and Commodities workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Geopolitical Risk and Conflict Reporting outputs into a larger Global Supply Chains and Commodities workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Geopolitical Risk and Conflict Reporting**
+
+**Summary:** Advanced methods in Geopolitical Risk and Conflict Reporting for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Geopolitical Risk and Conflict Reporting methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Geopolitical Risk and Conflict Reporting**
+
+**Summary:** Making Geopolitical Risk and Conflict Reporting work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Geopolitical Risk and Conflict Reporting work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Geopolitical Risk and Conflict Reporting**
+
+**Summary:** Protecting Geopolitical Risk and Conflict Reporting work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Geopolitical Risk and Conflict Reporting work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Geopolitical Risk and Conflict Reporting**
+
+**Summary:** Making Geopolitical Risk and Conflict Reporting work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Geopolitical Risk and Conflict Reporting work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Geopolitical Risk and Conflict Reporting**
+
+**Summary:** Realistic Global Supply Chains and Commodities case studies using Geopolitical Risk and Conflict Reporting under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Geopolitical Risk and Conflict Reporting results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Geopolitical Risk and Conflict Reporting**
+
+**Summary:** Expert-level judgment in Geopolitical Risk and Conflict Reporting, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Geopolitical Risk and Conflict Reporting work with portfolio-ready proof.

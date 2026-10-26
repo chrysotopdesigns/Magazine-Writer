@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Syntax, Breath, and Sentence Length**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Syntax, Breath, and Sentence Length within Phonetical Prose and Cadence practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Syntax, Breath, and Sentence Length and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Syntax, Breath, and Sentence Length**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Syntax, Breath, and Sentence Length, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Syntax, Breath, and Sentence Length environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Syntax, Breath, and Sentence Length**
+
+**Summary:** Hands-on core techniques of Syntax, Breath, and Sentence Length applied to small realistic Phonetical Prose and Cadence projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Syntax, Breath, and Sentence Length techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Syntax, Breath, and Sentence Length**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Syntax, Breath, and Sentence Length work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Syntax, Breath, and Sentence Length patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Syntax, Breath, and Sentence Length**
+
+**Summary:** How to verify Syntax, Breath, and Sentence Length work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Syntax, Breath, and Sentence Length work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Syntax, Breath, and Sentence Length**
+
+**Summary:** Using Syntax, Breath, and Sentence Length inside larger Phonetical Prose and Cadence workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Syntax, Breath, and Sentence Length outputs into a larger Phonetical Prose and Cadence workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Syntax, Breath, and Sentence Length**
+
+**Summary:** Advanced methods in Syntax, Breath, and Sentence Length for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Syntax, Breath, and Sentence Length methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Syntax, Breath, and Sentence Length**
+
+**Summary:** Making Syntax, Breath, and Sentence Length work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Syntax, Breath, and Sentence Length work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Syntax, Breath, and Sentence Length**
+
+**Summary:** Protecting Syntax, Breath, and Sentence Length work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Syntax, Breath, and Sentence Length work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Syntax, Breath, and Sentence Length**
+
+**Summary:** Making Syntax, Breath, and Sentence Length work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Syntax, Breath, and Sentence Length work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Syntax, Breath, and Sentence Length**
+
+**Summary:** Realistic Phonetical Prose and Cadence case studies using Syntax, Breath, and Sentence Length under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Syntax, Breath, and Sentence Length results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Syntax, Breath, and Sentence Length**
+
+**Summary:** Expert-level judgment in Syntax, Breath, and Sentence Length, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Syntax, Breath, and Sentence Length work with portfolio-ready proof.

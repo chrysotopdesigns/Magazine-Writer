@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Financial Forensics and Paper Trails**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Financial Forensics and Paper Trails within Investigative Forensics practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Financial Forensics and Paper Trails and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Financial Forensics and Paper Trails**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Financial Forensics and Paper Trails, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Financial Forensics and Paper Trails environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Financial Forensics and Paper Trails**
+
+**Summary:** Hands-on core techniques of Financial Forensics and Paper Trails applied to small realistic Investigative Forensics projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Financial Forensics and Paper Trails techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Financial Forensics and Paper Trails**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Financial Forensics and Paper Trails work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Financial Forensics and Paper Trails patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Financial Forensics and Paper Trails**
+
+**Summary:** How to verify Financial Forensics and Paper Trails work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Financial Forensics and Paper Trails work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Financial Forensics and Paper Trails**
+
+**Summary:** Using Financial Forensics and Paper Trails inside larger Investigative Forensics workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Financial Forensics and Paper Trails outputs into a larger Investigative Forensics workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Financial Forensics and Paper Trails**
+
+**Summary:** Advanced methods in Financial Forensics and Paper Trails for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Financial Forensics and Paper Trails methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Financial Forensics and Paper Trails**
+
+**Summary:** Making Financial Forensics and Paper Trails work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Financial Forensics and Paper Trails work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Financial Forensics and Paper Trails**
+
+**Summary:** Protecting Financial Forensics and Paper Trails work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Financial Forensics and Paper Trails work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Financial Forensics and Paper Trails**
+
+**Summary:** Making Financial Forensics and Paper Trails work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Financial Forensics and Paper Trails work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Financial Forensics and Paper Trails**
+
+**Summary:** Realistic Investigative Forensics case studies using Financial Forensics and Paper Trails under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Financial Forensics and Paper Trails results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Financial Forensics and Paper Trails**
+
+**Summary:** Expert-level judgment in Financial Forensics and Paper Trails, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Financial Forensics and Paper Trails work with portfolio-ready proof.

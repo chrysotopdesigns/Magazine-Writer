@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Reading Comprehension and Cognitive Processes**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Reading Comprehension and Cognitive Processes within Neurolinguistics practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Reading Comprehension and Cognitive Processes and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Reading Comprehension and Cognitive Processes**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Reading Comprehension and Cognitive Processes, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Reading Comprehension and Cognitive Processes environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Reading Comprehension and Cognitive Processes**
+
+**Summary:** Hands-on core techniques of Reading Comprehension and Cognitive Processes applied to small realistic Neurolinguistics projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Reading Comprehension and Cognitive Processes techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Reading Comprehension and Cognitive Processes**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Reading Comprehension and Cognitive Processes work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Reading Comprehension and Cognitive Processes patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Reading Comprehension and Cognitive Processes**
+
+**Summary:** How to verify Reading Comprehension and Cognitive Processes work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Reading Comprehension and Cognitive Processes work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Reading Comprehension and Cognitive Processes**
+
+**Summary:** Using Reading Comprehension and Cognitive Processes inside larger Neurolinguistics workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Reading Comprehension and Cognitive Processes outputs into a larger Neurolinguistics workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Reading Comprehension and Cognitive Processes**
+
+**Summary:** Advanced methods in Reading Comprehension and Cognitive Processes for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Reading Comprehension and Cognitive Processes methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Reading Comprehension and Cognitive Processes**
+
+**Summary:** Making Reading Comprehension and Cognitive Processes work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Reading Comprehension and Cognitive Processes work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Reading Comprehension and Cognitive Processes**
+
+**Summary:** Protecting Reading Comprehension and Cognitive Processes work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Reading Comprehension and Cognitive Processes work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Reading Comprehension and Cognitive Processes**
+
+**Summary:** Making Reading Comprehension and Cognitive Processes work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Reading Comprehension and Cognitive Processes work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Reading Comprehension and Cognitive Processes**
+
+**Summary:** Realistic Neurolinguistics case studies using Reading Comprehension and Cognitive Processes under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Reading Comprehension and Cognitive Processes results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Reading Comprehension and Cognitive Processes**
+
+**Summary:** Expert-level judgment in Reading Comprehension and Cognitive Processes, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Reading Comprehension and Cognitive Processes work with portfolio-ready proof.

@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Political Language and Policy Framing**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Political Language and Policy Framing within Metaphor and Framing Analysis practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Political Language and Policy Framing and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Political Language and Policy Framing**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Political Language and Policy Framing, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Political Language and Policy Framing environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Political Language and Policy Framing**
+
+**Summary:** Hands-on core techniques of Political Language and Policy Framing applied to small realistic Metaphor and Framing Analysis projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Political Language and Policy Framing techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Political Language and Policy Framing**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Political Language and Policy Framing work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Political Language and Policy Framing patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Political Language and Policy Framing**
+
+**Summary:** How to verify Political Language and Policy Framing work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Political Language and Policy Framing work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Political Language and Policy Framing**
+
+**Summary:** Using Political Language and Policy Framing inside larger Metaphor and Framing Analysis workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Political Language and Policy Framing outputs into a larger Metaphor and Framing Analysis workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Political Language and Policy Framing**
+
+**Summary:** Advanced methods in Political Language and Policy Framing for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Political Language and Policy Framing methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Political Language and Policy Framing**
+
+**Summary:** Making Political Language and Policy Framing work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Political Language and Policy Framing work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Political Language and Policy Framing**
+
+**Summary:** Protecting Political Language and Policy Framing work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Political Language and Policy Framing work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Political Language and Policy Framing**
+
+**Summary:** Making Political Language and Policy Framing work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Political Language and Policy Framing work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Political Language and Policy Framing**
+
+**Summary:** Realistic Metaphor and Framing Analysis case studies using Political Language and Policy Framing under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Political Language and Policy Framing results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Political Language and Policy Framing**
+
+**Summary:** Expert-level judgment in Political Language and Policy Framing, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Political Language and Policy Framing work with portfolio-ready proof.

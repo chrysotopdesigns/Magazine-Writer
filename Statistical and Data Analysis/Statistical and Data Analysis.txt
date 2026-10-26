@@ -1,0 +1,15 @@
+1. Data Literacy and Measurement Definitions - Clarifies what a dataset measures and what its fields mean.
+2. Descriptive Statistics and Distributions - Summarizes patterns without overstating what the data can show.
+3. Probability, Uncertainty, and Sampling - Explains how uncertainty and sample design affect conclusions.
+4. Study Design and Causal Reasoning - Distinguishes association from evidence of cause and effect.
+5. Significance, Effect Sizes, and Confidence - Interprets statistical results with attention to practical importance.
+6. Reading Medical and Scientific Studies - Evaluates methods, limitations, and claims in published research.
+7. Scientific Data Validation and Replication - Checks whether data and methods support a reported finding.
+8. Economic Data and Indicators - Interprets economic series with attention to definitions and revisions.
+9. Company, Market, and Financial Datasets - Analyzes financial information while checking comparability and context.
+10. Spreadsheets, Cleaning, and Data Preparation - Makes working datasets consistent, documented, and ready to analyze.
+11. Regression and Statistical Modeling - Uses models appropriately and communicates assumptions and limits.
+12. Charts and Statistical Communication - Presents quantitative evidence in clear, accurate visual form.
+13. Reproducible Analysis and Source Notes - Makes calculations traceable and repeatable by other reporters.
+14. Explaining Limitations and Uncertainty - Helps readers understand what the evidence cannot establish.
+15. Data Fact-Checking and Reporting Portfolio - Demonstrates accurate analysis through verified examples and documentation.

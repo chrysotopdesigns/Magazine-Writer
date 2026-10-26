@@ -1,0 +1,15 @@
+1. Investigation Planning and Hypothesis Testing - Turns a lead into testable questions, milestones, and evidence needs.
+2. Public Records and FOIA Workflows - Finds government records through lawful, well-documented request processes.
+3. Corporate Filings and Financial Records - Uses primary business records to test claims and follow paper trails.
+4. Lawful OSINT and Digital Verification - Verifies publicly available online material while respecting legal boundaries.
+5. Data Cleaning and Investigative Analysis - Prepares messy datasets for careful, reproducible investigation.
+6. Financial Forensics and Paper Trails - Follows transactions and disclosures to identify questions for further reporting.
+7. Source Development and Protection - Builds trusted relationships while reducing risks to confidential sources.
+8. Document Authentication and Metadata - Checks provenance, authenticity, and the limits of digital evidence.
+9. Evidence Preservation and Chain of Custody - Maintains an auditable record of materials and handling decisions.
+10. Ownership Networks and Entity Mapping - Maps organizations and relationships to guide corroboration.
+11. Digital Security and Privacy for Reporters - Protects accounts, communications, devices, and sensitive source information.
+12. Legal and Ethical Boundaries for Online Research - Keeps digital investigations within lawful, proportionate, and ethical limits.
+13. Cross-Border Collaboration and Records - Coordinates records requests and evidence checks across jurisdictions.
+14. Story Substantiation and Prepublication Review - Ensures significant allegations are supported and fairly presented.
+15. Case Management and Investigative Impact - Tracks leads, decisions, publication readiness, and outcomes systematically.

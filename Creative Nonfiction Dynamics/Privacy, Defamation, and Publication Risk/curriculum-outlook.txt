@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Privacy, Defamation, and Publication Risk**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Privacy, Defamation, and Publication Risk within Creative Nonfiction Dynamics practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Privacy, Defamation, and Publication Risk and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Privacy, Defamation, and Publication Risk**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Privacy, Defamation, and Publication Risk, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Privacy, Defamation, and Publication Risk environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Privacy, Defamation, and Publication Risk**
+
+**Summary:** Hands-on core techniques of Privacy, Defamation, and Publication Risk applied to small realistic Creative Nonfiction Dynamics projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Privacy, Defamation, and Publication Risk techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Privacy, Defamation, and Publication Risk**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Privacy, Defamation, and Publication Risk work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Privacy, Defamation, and Publication Risk patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Privacy, Defamation, and Publication Risk**
+
+**Summary:** How to verify Privacy, Defamation, and Publication Risk work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Privacy, Defamation, and Publication Risk work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Privacy, Defamation, and Publication Risk**
+
+**Summary:** Using Privacy, Defamation, and Publication Risk inside larger Creative Nonfiction Dynamics workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Privacy, Defamation, and Publication Risk outputs into a larger Creative Nonfiction Dynamics workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Privacy, Defamation, and Publication Risk**
+
+**Summary:** Advanced methods in Privacy, Defamation, and Publication Risk for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Privacy, Defamation, and Publication Risk methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Privacy, Defamation, and Publication Risk**
+
+**Summary:** Making Privacy, Defamation, and Publication Risk work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Privacy, Defamation, and Publication Risk work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Privacy, Defamation, and Publication Risk**
+
+**Summary:** Protecting Privacy, Defamation, and Publication Risk work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Privacy, Defamation, and Publication Risk work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Privacy, Defamation, and Publication Risk**
+
+**Summary:** Making Privacy, Defamation, and Publication Risk work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Privacy, Defamation, and Publication Risk work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Privacy, Defamation, and Publication Risk**
+
+**Summary:** Realistic Creative Nonfiction Dynamics case studies using Privacy, Defamation, and Publication Risk under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Privacy, Defamation, and Publication Risk results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Privacy, Defamation, and Publication Risk**
+
+**Summary:** Expert-level judgment in Privacy, Defamation, and Publication Risk, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Privacy, Defamation, and Publication Risk work with portfolio-ready proof.

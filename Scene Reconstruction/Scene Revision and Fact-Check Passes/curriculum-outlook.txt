@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Scene Revision and Fact-Check Passes**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Scene Revision and Fact-Check Passes within Scene Reconstruction practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Scene Revision and Fact-Check Passes and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Scene Revision and Fact-Check Passes**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Scene Revision and Fact-Check Passes, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Scene Revision and Fact-Check Passes environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Scene Revision and Fact-Check Passes**
+
+**Summary:** Hands-on core techniques of Scene Revision and Fact-Check Passes applied to small realistic Scene Reconstruction projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Scene Revision and Fact-Check Passes techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Scene Revision and Fact-Check Passes**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Scene Revision and Fact-Check Passes work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Scene Revision and Fact-Check Passes patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Scene Revision and Fact-Check Passes**
+
+**Summary:** How to verify Scene Revision and Fact-Check Passes work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Scene Revision and Fact-Check Passes work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Scene Revision and Fact-Check Passes**
+
+**Summary:** Using Scene Revision and Fact-Check Passes inside larger Scene Reconstruction workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Scene Revision and Fact-Check Passes outputs into a larger Scene Reconstruction workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Scene Revision and Fact-Check Passes**
+
+**Summary:** Advanced methods in Scene Revision and Fact-Check Passes for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Scene Revision and Fact-Check Passes methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Scene Revision and Fact-Check Passes**
+
+**Summary:** Making Scene Revision and Fact-Check Passes work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Scene Revision and Fact-Check Passes work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Scene Revision and Fact-Check Passes**
+
+**Summary:** Protecting Scene Revision and Fact-Check Passes work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Scene Revision and Fact-Check Passes work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Scene Revision and Fact-Check Passes**
+
+**Summary:** Making Scene Revision and Fact-Check Passes work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Scene Revision and Fact-Check Passes work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Scene Revision and Fact-Check Passes**
+
+**Summary:** Realistic Scene Reconstruction case studies using Scene Revision and Fact-Check Passes under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Scene Revision and Fact-Check Passes results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Scene Revision and Fact-Check Passes**
+
+**Summary:** Expert-level judgment in Scene Revision and Fact-Check Passes, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Scene Revision and Fact-Check Passes work with portfolio-ready proof.

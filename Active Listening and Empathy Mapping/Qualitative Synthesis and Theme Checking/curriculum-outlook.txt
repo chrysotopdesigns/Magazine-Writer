@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Qualitative Synthesis and Theme Checking**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Qualitative Synthesis and Theme Checking within Active Listening and Empathy Mapping practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Qualitative Synthesis and Theme Checking and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Qualitative Synthesis and Theme Checking**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Qualitative Synthesis and Theme Checking, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Qualitative Synthesis and Theme Checking environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Qualitative Synthesis and Theme Checking**
+
+**Summary:** Hands-on core techniques of Qualitative Synthesis and Theme Checking applied to small realistic Active Listening and Empathy Mapping projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Qualitative Synthesis and Theme Checking techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Qualitative Synthesis and Theme Checking**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Qualitative Synthesis and Theme Checking work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Qualitative Synthesis and Theme Checking patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Qualitative Synthesis and Theme Checking**
+
+**Summary:** How to verify Qualitative Synthesis and Theme Checking work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Qualitative Synthesis and Theme Checking work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Qualitative Synthesis and Theme Checking**
+
+**Summary:** Using Qualitative Synthesis and Theme Checking inside larger Active Listening and Empathy Mapping workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Qualitative Synthesis and Theme Checking outputs into a larger Active Listening and Empathy Mapping workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Qualitative Synthesis and Theme Checking**
+
+**Summary:** Advanced methods in Qualitative Synthesis and Theme Checking for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Qualitative Synthesis and Theme Checking methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Qualitative Synthesis and Theme Checking**
+
+**Summary:** Making Qualitative Synthesis and Theme Checking work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Qualitative Synthesis and Theme Checking work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Qualitative Synthesis and Theme Checking**
+
+**Summary:** Protecting Qualitative Synthesis and Theme Checking work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Qualitative Synthesis and Theme Checking work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Qualitative Synthesis and Theme Checking**
+
+**Summary:** Making Qualitative Synthesis and Theme Checking work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Qualitative Synthesis and Theme Checking work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Qualitative Synthesis and Theme Checking**
+
+**Summary:** Realistic Active Listening and Empathy Mapping case studies using Qualitative Synthesis and Theme Checking under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Qualitative Synthesis and Theme Checking results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Qualitative Synthesis and Theme Checking**
+
+**Summary:** Expert-level judgment in Qualitative Synthesis and Theme Checking, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Qualitative Synthesis and Theme Checking work with portfolio-ready proof.

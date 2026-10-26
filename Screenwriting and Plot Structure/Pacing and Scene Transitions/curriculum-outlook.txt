@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Pacing and Scene Transitions**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Pacing and Scene Transitions within Screenwriting and Plot Structure practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Pacing and Scene Transitions and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Pacing and Scene Transitions**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Pacing and Scene Transitions, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Pacing and Scene Transitions environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Pacing and Scene Transitions**
+
+**Summary:** Hands-on core techniques of Pacing and Scene Transitions applied to small realistic Screenwriting and Plot Structure projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Pacing and Scene Transitions techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Pacing and Scene Transitions**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Pacing and Scene Transitions work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Pacing and Scene Transitions patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Pacing and Scene Transitions**
+
+**Summary:** How to verify Pacing and Scene Transitions work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Pacing and Scene Transitions work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Pacing and Scene Transitions**
+
+**Summary:** Using Pacing and Scene Transitions inside larger Screenwriting and Plot Structure workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Pacing and Scene Transitions outputs into a larger Screenwriting and Plot Structure workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Pacing and Scene Transitions**
+
+**Summary:** Advanced methods in Pacing and Scene Transitions for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Pacing and Scene Transitions methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Pacing and Scene Transitions**
+
+**Summary:** Making Pacing and Scene Transitions work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Pacing and Scene Transitions work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Pacing and Scene Transitions**
+
+**Summary:** Protecting Pacing and Scene Transitions work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Pacing and Scene Transitions work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Pacing and Scene Transitions**
+
+**Summary:** Making Pacing and Scene Transitions work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Pacing and Scene Transitions work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Pacing and Scene Transitions**
+
+**Summary:** Realistic Screenwriting and Plot Structure case studies using Pacing and Scene Transitions under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Pacing and Scene Transitions results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Pacing and Scene Transitions**
+
+**Summary:** Expert-level judgment in Pacing and Scene Transitions, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Pacing and Scene Transitions work with portfolio-ready proof.

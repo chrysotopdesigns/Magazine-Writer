@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Sentence Variety and Narrative Pacing**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Sentence Variety and Narrative Pacing within Phonetical Prose and Cadence practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Sentence Variety and Narrative Pacing and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Sentence Variety and Narrative Pacing**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Sentence Variety and Narrative Pacing, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Sentence Variety and Narrative Pacing environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Sentence Variety and Narrative Pacing**
+
+**Summary:** Hands-on core techniques of Sentence Variety and Narrative Pacing applied to small realistic Phonetical Prose and Cadence projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Sentence Variety and Narrative Pacing techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Sentence Variety and Narrative Pacing**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Sentence Variety and Narrative Pacing work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Sentence Variety and Narrative Pacing patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Sentence Variety and Narrative Pacing**
+
+**Summary:** How to verify Sentence Variety and Narrative Pacing work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Sentence Variety and Narrative Pacing work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Sentence Variety and Narrative Pacing**
+
+**Summary:** Using Sentence Variety and Narrative Pacing inside larger Phonetical Prose and Cadence workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Sentence Variety and Narrative Pacing outputs into a larger Phonetical Prose and Cadence workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Sentence Variety and Narrative Pacing**
+
+**Summary:** Advanced methods in Sentence Variety and Narrative Pacing for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Sentence Variety and Narrative Pacing methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Sentence Variety and Narrative Pacing**
+
+**Summary:** Making Sentence Variety and Narrative Pacing work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Sentence Variety and Narrative Pacing work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Sentence Variety and Narrative Pacing**
+
+**Summary:** Protecting Sentence Variety and Narrative Pacing work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Sentence Variety and Narrative Pacing work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Sentence Variety and Narrative Pacing**
+
+**Summary:** Making Sentence Variety and Narrative Pacing work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Sentence Variety and Narrative Pacing work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Sentence Variety and Narrative Pacing**
+
+**Summary:** Realistic Phonetical Prose and Cadence case studies using Sentence Variety and Narrative Pacing under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Sentence Variety and Narrative Pacing results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Sentence Variety and Narrative Pacing**
+
+**Summary:** Expert-level judgment in Sentence Variety and Narrative Pacing, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Sentence Variety and Narrative Pacing work with portfolio-ready proof.

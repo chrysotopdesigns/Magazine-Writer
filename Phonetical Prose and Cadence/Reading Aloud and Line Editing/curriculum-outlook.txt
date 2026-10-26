@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Reading Aloud and Line Editing**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Reading Aloud and Line Editing within Phonetical Prose and Cadence practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Reading Aloud and Line Editing and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Reading Aloud and Line Editing**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Reading Aloud and Line Editing, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Reading Aloud and Line Editing environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Reading Aloud and Line Editing**
+
+**Summary:** Hands-on core techniques of Reading Aloud and Line Editing applied to small realistic Phonetical Prose and Cadence projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Reading Aloud and Line Editing techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Reading Aloud and Line Editing**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Reading Aloud and Line Editing work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Reading Aloud and Line Editing patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Reading Aloud and Line Editing**
+
+**Summary:** How to verify Reading Aloud and Line Editing work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Reading Aloud and Line Editing work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Reading Aloud and Line Editing**
+
+**Summary:** Using Reading Aloud and Line Editing inside larger Phonetical Prose and Cadence workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Reading Aloud and Line Editing outputs into a larger Phonetical Prose and Cadence workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Reading Aloud and Line Editing**
+
+**Summary:** Advanced methods in Reading Aloud and Line Editing for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Reading Aloud and Line Editing methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Reading Aloud and Line Editing**
+
+**Summary:** Making Reading Aloud and Line Editing work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Reading Aloud and Line Editing work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Reading Aloud and Line Editing**
+
+**Summary:** Protecting Reading Aloud and Line Editing work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Reading Aloud and Line Editing work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Reading Aloud and Line Editing**
+
+**Summary:** Making Reading Aloud and Line Editing work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Reading Aloud and Line Editing work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Reading Aloud and Line Editing**
+
+**Summary:** Realistic Phonetical Prose and Cadence case studies using Reading Aloud and Line Editing under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Reading Aloud and Line Editing results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Reading Aloud and Line Editing**
+
+**Summary:** Expert-level judgment in Reading Aloud and Line Editing, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Reading Aloud and Line Editing work with portfolio-ready proof.

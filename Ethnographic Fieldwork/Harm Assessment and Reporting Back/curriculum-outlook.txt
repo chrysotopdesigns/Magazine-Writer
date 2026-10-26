@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Harm Assessment and Reporting Back**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Harm Assessment and Reporting Back within Ethnographic Fieldwork practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Harm Assessment and Reporting Back and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Harm Assessment and Reporting Back**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Harm Assessment and Reporting Back, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Harm Assessment and Reporting Back environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Harm Assessment and Reporting Back**
+
+**Summary:** Hands-on core techniques of Harm Assessment and Reporting Back applied to small realistic Ethnographic Fieldwork projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Harm Assessment and Reporting Back techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Harm Assessment and Reporting Back**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Harm Assessment and Reporting Back work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Harm Assessment and Reporting Back patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Harm Assessment and Reporting Back**
+
+**Summary:** How to verify Harm Assessment and Reporting Back work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Harm Assessment and Reporting Back work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Harm Assessment and Reporting Back**
+
+**Summary:** Using Harm Assessment and Reporting Back inside larger Ethnographic Fieldwork workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Harm Assessment and Reporting Back outputs into a larger Ethnographic Fieldwork workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Harm Assessment and Reporting Back**
+
+**Summary:** Advanced methods in Harm Assessment and Reporting Back for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Harm Assessment and Reporting Back methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Harm Assessment and Reporting Back**
+
+**Summary:** Making Harm Assessment and Reporting Back work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Harm Assessment and Reporting Back work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Harm Assessment and Reporting Back**
+
+**Summary:** Protecting Harm Assessment and Reporting Back work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Harm Assessment and Reporting Back work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Harm Assessment and Reporting Back**
+
+**Summary:** Making Harm Assessment and Reporting Back work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Harm Assessment and Reporting Back work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Harm Assessment and Reporting Back**
+
+**Summary:** Realistic Ethnographic Fieldwork case studies using Harm Assessment and Reporting Back under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Harm Assessment and Reporting Back results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Harm Assessment and Reporting Back**
+
+**Summary:** Expert-level judgment in Harm Assessment and Reporting Back, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Harm Assessment and Reporting Back work with portfolio-ready proof.

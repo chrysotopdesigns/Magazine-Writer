@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Listening Practice and Reflective Evaluation**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Listening Practice and Reflective Evaluation within Active Listening and Empathy Mapping practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Listening Practice and Reflective Evaluation and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Listening Practice and Reflective Evaluation**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Listening Practice and Reflective Evaluation, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Listening Practice and Reflective Evaluation environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Listening Practice and Reflective Evaluation**
+
+**Summary:** Hands-on core techniques of Listening Practice and Reflective Evaluation applied to small realistic Active Listening and Empathy Mapping projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Listening Practice and Reflective Evaluation techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Listening Practice and Reflective Evaluation**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Listening Practice and Reflective Evaluation work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Listening Practice and Reflective Evaluation patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Listening Practice and Reflective Evaluation**
+
+**Summary:** How to verify Listening Practice and Reflective Evaluation work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Listening Practice and Reflective Evaluation work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Listening Practice and Reflective Evaluation**
+
+**Summary:** Using Listening Practice and Reflective Evaluation inside larger Active Listening and Empathy Mapping workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Listening Practice and Reflective Evaluation outputs into a larger Active Listening and Empathy Mapping workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Listening Practice and Reflective Evaluation**
+
+**Summary:** Advanced methods in Listening Practice and Reflective Evaluation for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Listening Practice and Reflective Evaluation methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Listening Practice and Reflective Evaluation**
+
+**Summary:** Making Listening Practice and Reflective Evaluation work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Listening Practice and Reflective Evaluation work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Listening Practice and Reflective Evaluation**
+
+**Summary:** Protecting Listening Practice and Reflective Evaluation work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Listening Practice and Reflective Evaluation work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Listening Practice and Reflective Evaluation**
+
+**Summary:** Making Listening Practice and Reflective Evaluation work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Listening Practice and Reflective Evaluation work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Listening Practice and Reflective Evaluation**
+
+**Summary:** Realistic Active Listening and Empathy Mapping case studies using Listening Practice and Reflective Evaluation under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Listening Practice and Reflective Evaluation results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Listening Practice and Reflective Evaluation**
+
+**Summary:** Expert-level judgment in Listening Practice and Reflective Evaluation, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Listening Practice and Reflective Evaluation work with portfolio-ready proof.

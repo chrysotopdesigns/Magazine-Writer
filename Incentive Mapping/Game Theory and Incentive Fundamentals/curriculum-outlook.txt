@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Game Theory and Incentive Fundamentals**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Game Theory and Incentive Fundamentals within Incentive Mapping practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Game Theory and Incentive Fundamentals and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Game Theory and Incentive Fundamentals**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Game Theory and Incentive Fundamentals, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Game Theory and Incentive Fundamentals environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Game Theory and Incentive Fundamentals**
+
+**Summary:** Hands-on core techniques of Game Theory and Incentive Fundamentals applied to small realistic Incentive Mapping projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Game Theory and Incentive Fundamentals techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Game Theory and Incentive Fundamentals**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Game Theory and Incentive Fundamentals work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Game Theory and Incentive Fundamentals patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Game Theory and Incentive Fundamentals**
+
+**Summary:** How to verify Game Theory and Incentive Fundamentals work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Game Theory and Incentive Fundamentals work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Game Theory and Incentive Fundamentals**
+
+**Summary:** Using Game Theory and Incentive Fundamentals inside larger Incentive Mapping workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Game Theory and Incentive Fundamentals outputs into a larger Incentive Mapping workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Game Theory and Incentive Fundamentals**
+
+**Summary:** Advanced methods in Game Theory and Incentive Fundamentals for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Game Theory and Incentive Fundamentals methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Game Theory and Incentive Fundamentals**
+
+**Summary:** Making Game Theory and Incentive Fundamentals work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Game Theory and Incentive Fundamentals work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Game Theory and Incentive Fundamentals**
+
+**Summary:** Protecting Game Theory and Incentive Fundamentals work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Game Theory and Incentive Fundamentals work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Game Theory and Incentive Fundamentals**
+
+**Summary:** Making Game Theory and Incentive Fundamentals work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Game Theory and Incentive Fundamentals work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Game Theory and Incentive Fundamentals**
+
+**Summary:** Realistic Incentive Mapping case studies using Game Theory and Incentive Fundamentals under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Game Theory and Incentive Fundamentals results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Game Theory and Incentive Fundamentals**
+
+**Summary:** Expert-level judgment in Game Theory and Incentive Fundamentals, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Game Theory and Incentive Fundamentals work with portfolio-ready proof.

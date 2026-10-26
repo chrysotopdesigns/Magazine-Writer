@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Imagery and Sensory Detail**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Imagery and Sensory Detail within Creative Nonfiction Dynamics practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Imagery and Sensory Detail and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Imagery and Sensory Detail**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Imagery and Sensory Detail, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Imagery and Sensory Detail environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Imagery and Sensory Detail**
+
+**Summary:** Hands-on core techniques of Imagery and Sensory Detail applied to small realistic Creative Nonfiction Dynamics projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Imagery and Sensory Detail techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Imagery and Sensory Detail**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Imagery and Sensory Detail work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Imagery and Sensory Detail patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Imagery and Sensory Detail**
+
+**Summary:** How to verify Imagery and Sensory Detail work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Imagery and Sensory Detail work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Imagery and Sensory Detail**
+
+**Summary:** Using Imagery and Sensory Detail inside larger Creative Nonfiction Dynamics workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Imagery and Sensory Detail outputs into a larger Creative Nonfiction Dynamics workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Imagery and Sensory Detail**
+
+**Summary:** Advanced methods in Imagery and Sensory Detail for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Imagery and Sensory Detail methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Imagery and Sensory Detail**
+
+**Summary:** Making Imagery and Sensory Detail work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Imagery and Sensory Detail work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Imagery and Sensory Detail**
+
+**Summary:** Protecting Imagery and Sensory Detail work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Imagery and Sensory Detail work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Imagery and Sensory Detail**
+
+**Summary:** Making Imagery and Sensory Detail work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Imagery and Sensory Detail work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Imagery and Sensory Detail**
+
+**Summary:** Realistic Creative Nonfiction Dynamics case studies using Imagery and Sensory Detail under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Imagery and Sensory Detail results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Imagery and Sensory Detail**
+
+**Summary:** Expert-level judgment in Imagery and Sensory Detail, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Imagery and Sensory Detail work with portfolio-ready proof.

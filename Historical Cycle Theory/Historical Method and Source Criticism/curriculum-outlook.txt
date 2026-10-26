@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Historical Method and Source Criticism**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Historical Method and Source Criticism within Historical Cycle Theory practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Historical Method and Source Criticism and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Historical Method and Source Criticism**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Historical Method and Source Criticism, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Historical Method and Source Criticism environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Historical Method and Source Criticism**
+
+**Summary:** Hands-on core techniques of Historical Method and Source Criticism applied to small realistic Historical Cycle Theory projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Historical Method and Source Criticism techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Historical Method and Source Criticism**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Historical Method and Source Criticism work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Historical Method and Source Criticism patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Historical Method and Source Criticism**
+
+**Summary:** How to verify Historical Method and Source Criticism work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Historical Method and Source Criticism work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Historical Method and Source Criticism**
+
+**Summary:** Using Historical Method and Source Criticism inside larger Historical Cycle Theory workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Historical Method and Source Criticism outputs into a larger Historical Cycle Theory workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Historical Method and Source Criticism**
+
+**Summary:** Advanced methods in Historical Method and Source Criticism for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Historical Method and Source Criticism methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Historical Method and Source Criticism**
+
+**Summary:** Making Historical Method and Source Criticism work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Historical Method and Source Criticism work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Historical Method and Source Criticism**
+
+**Summary:** Protecting Historical Method and Source Criticism work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Historical Method and Source Criticism work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Historical Method and Source Criticism**
+
+**Summary:** Making Historical Method and Source Criticism work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Historical Method and Source Criticism work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Historical Method and Source Criticism**
+
+**Summary:** Realistic Historical Cycle Theory case studies using Historical Method and Source Criticism under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Historical Method and Source Criticism results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Historical Method and Source Criticism**
+
+**Summary:** Expert-level judgment in Historical Method and Source Criticism, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Historical Method and Source Criticism work with portfolio-ready proof.

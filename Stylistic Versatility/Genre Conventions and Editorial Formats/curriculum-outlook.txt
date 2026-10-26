@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Genre Conventions and Editorial Formats**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Genre Conventions and Editorial Formats within Stylistic Versatility practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Genre Conventions and Editorial Formats and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Genre Conventions and Editorial Formats**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Genre Conventions and Editorial Formats, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Genre Conventions and Editorial Formats environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Genre Conventions and Editorial Formats**
+
+**Summary:** Hands-on core techniques of Genre Conventions and Editorial Formats applied to small realistic Stylistic Versatility projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Genre Conventions and Editorial Formats techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Genre Conventions and Editorial Formats**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Genre Conventions and Editorial Formats work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Genre Conventions and Editorial Formats patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Genre Conventions and Editorial Formats**
+
+**Summary:** How to verify Genre Conventions and Editorial Formats work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Genre Conventions and Editorial Formats work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Genre Conventions and Editorial Formats**
+
+**Summary:** Using Genre Conventions and Editorial Formats inside larger Stylistic Versatility workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Genre Conventions and Editorial Formats outputs into a larger Stylistic Versatility workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Genre Conventions and Editorial Formats**
+
+**Summary:** Advanced methods in Genre Conventions and Editorial Formats for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Genre Conventions and Editorial Formats methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Genre Conventions and Editorial Formats**
+
+**Summary:** Making Genre Conventions and Editorial Formats work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Genre Conventions and Editorial Formats work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Genre Conventions and Editorial Formats**
+
+**Summary:** Protecting Genre Conventions and Editorial Formats work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Genre Conventions and Editorial Formats work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Genre Conventions and Editorial Formats**
+
+**Summary:** Making Genre Conventions and Editorial Formats work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Genre Conventions and Editorial Formats work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Genre Conventions and Editorial Formats**
+
+**Summary:** Realistic Stylistic Versatility case studies using Genre Conventions and Editorial Formats under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Genre Conventions and Editorial Formats results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Genre Conventions and Editorial Formats**
+
+**Summary:** Expert-level judgment in Genre Conventions and Editorial Formats, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Genre Conventions and Editorial Formats work with portfolio-ready proof.

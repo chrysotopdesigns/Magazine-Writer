@@ -1,0 +1,15 @@
+1. Game Theory and Incentive Fundamentals - Builds a structured way to examine choices and competing interests.
+2. Source Motivation Mapping - Identifies possible source interests as hypotheses to verify, not conclusions.
+3. Stakeholder and Interest Analysis - Shows who may benefit, bear costs, or influence a decision.
+4. Economic Incentives and Institutions - Connects individual choices to organizational and market structures.
+5. Interview Questions and Neutral Framing - Tests incentives with fair questions rather than leading assumptions.
+6. Conflicts of Interest and Disclosure - Recognizes interests that should be checked and transparently reported.
+7. Power, Information, and Asymmetric Access - Explains how unequal information can shape decisions and narratives.
+8. Source Reliability and Corroboration - Separates a source's possible incentive from the accuracy of their claims.
+9. Narrative Manipulation and Evidence Checks - Tests framing and persuasion against independently verifiable facts.
+10. Incentive Clues in Documents and Data - Uses records to substantiate claims about rewards and constraints.
+11. Ethical Source Relationships and Negotiation - Maintains clear boundaries while seeking useful information.
+12. Uncertainty and Limits of Game-Theoretic Models - Prevents simplified models from being mistaken for real human motives.
+13. Stakeholder Maps and Visual Analysis - Makes relationships and potential interests easier to examine.
+14. Fairness, Attribution, and Reporting Ethics - Avoids imputing motives without evidence and gives subjects a fair response.
+15. Incentive Mapping Case Studies - Applies systematic interest analysis to documented reporting examples.

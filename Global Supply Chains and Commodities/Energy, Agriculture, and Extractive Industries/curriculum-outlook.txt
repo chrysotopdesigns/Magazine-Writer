@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Energy, Agriculture, and Extractive Industries**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Energy, Agriculture, and Extractive Industries within Global Supply Chains and Commodities practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Energy, Agriculture, and Extractive Industries and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Energy, Agriculture, and Extractive Industries**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Energy, Agriculture, and Extractive Industries, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Energy, Agriculture, and Extractive Industries environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Energy, Agriculture, and Extractive Industries**
+
+**Summary:** Hands-on core techniques of Energy, Agriculture, and Extractive Industries applied to small realistic Global Supply Chains and Commodities projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Energy, Agriculture, and Extractive Industries techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Energy, Agriculture, and Extractive Industries**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Energy, Agriculture, and Extractive Industries work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Energy, Agriculture, and Extractive Industries patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Energy, Agriculture, and Extractive Industries**
+
+**Summary:** How to verify Energy, Agriculture, and Extractive Industries work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Energy, Agriculture, and Extractive Industries work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Energy, Agriculture, and Extractive Industries**
+
+**Summary:** Using Energy, Agriculture, and Extractive Industries inside larger Global Supply Chains and Commodities workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Energy, Agriculture, and Extractive Industries outputs into a larger Global Supply Chains and Commodities workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Energy, Agriculture, and Extractive Industries**
+
+**Summary:** Advanced methods in Energy, Agriculture, and Extractive Industries for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Energy, Agriculture, and Extractive Industries methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Energy, Agriculture, and Extractive Industries**
+
+**Summary:** Making Energy, Agriculture, and Extractive Industries work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Energy, Agriculture, and Extractive Industries work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Energy, Agriculture, and Extractive Industries**
+
+**Summary:** Protecting Energy, Agriculture, and Extractive Industries work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Energy, Agriculture, and Extractive Industries work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Energy, Agriculture, and Extractive Industries**
+
+**Summary:** Making Energy, Agriculture, and Extractive Industries work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Energy, Agriculture, and Extractive Industries work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Energy, Agriculture, and Extractive Industries**
+
+**Summary:** Realistic Global Supply Chains and Commodities case studies using Energy, Agriculture, and Extractive Industries under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Energy, Agriculture, and Extractive Industries results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Energy, Agriculture, and Extractive Industries**
+
+**Summary:** Expert-level judgment in Energy, Agriculture, and Extractive Industries, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Energy, Agriculture, and Extractive Industries work with portfolio-ready proof.

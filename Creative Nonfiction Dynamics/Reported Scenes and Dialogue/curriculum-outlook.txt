@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Reported Scenes and Dialogue**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Reported Scenes and Dialogue within Creative Nonfiction Dynamics practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Reported Scenes and Dialogue and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Reported Scenes and Dialogue**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Reported Scenes and Dialogue, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Reported Scenes and Dialogue environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Reported Scenes and Dialogue**
+
+**Summary:** Hands-on core techniques of Reported Scenes and Dialogue applied to small realistic Creative Nonfiction Dynamics projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Reported Scenes and Dialogue techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Reported Scenes and Dialogue**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Reported Scenes and Dialogue work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Reported Scenes and Dialogue patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Reported Scenes and Dialogue**
+
+**Summary:** How to verify Reported Scenes and Dialogue work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Reported Scenes and Dialogue work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Reported Scenes and Dialogue**
+
+**Summary:** Using Reported Scenes and Dialogue inside larger Creative Nonfiction Dynamics workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Reported Scenes and Dialogue outputs into a larger Creative Nonfiction Dynamics workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Reported Scenes and Dialogue**
+
+**Summary:** Advanced methods in Reported Scenes and Dialogue for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Reported Scenes and Dialogue methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Reported Scenes and Dialogue**
+
+**Summary:** Making Reported Scenes and Dialogue work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Reported Scenes and Dialogue work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Reported Scenes and Dialogue**
+
+**Summary:** Protecting Reported Scenes and Dialogue work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Reported Scenes and Dialogue work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Reported Scenes and Dialogue**
+
+**Summary:** Making Reported Scenes and Dialogue work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Reported Scenes and Dialogue work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Reported Scenes and Dialogue**
+
+**Summary:** Realistic Creative Nonfiction Dynamics case studies using Reported Scenes and Dialogue under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Reported Scenes and Dialogue results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Reported Scenes and Dialogue**
+
+**Summary:** Expert-level judgment in Reported Scenes and Dialogue, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Reported Scenes and Dialogue work with portfolio-ready proof.

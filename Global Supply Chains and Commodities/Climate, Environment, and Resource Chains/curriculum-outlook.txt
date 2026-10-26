@@ -1,0 +1,71 @@
+**Foundations and Core Vocabulary in Climate, Environment, and Resource Chains**
+
+**Summary:** Foundational concepts, vocabulary, and mental models of Climate, Environment, and Resource Chains within Global Supply Chains and Commodities practice, how core terms fit together, what good looks like, and the misconceptions that hold beginners back.
+
+**Absorbed Skill:** Explain the core vocabulary and mental models of Climate, Environment, and Resource Chains and distinguish sound practice from common beginner misconceptions.
+
+**Tools, Setup, and Workflow for Climate, Environment, and Resource Chains**
+
+**Summary:** Essential tools, environment setup, project structure, and daily workflow for Climate, Environment, and Resource Chains, including installation, configuration, verification with a smoke test, and troubleshooting first-run problems.
+
+**Absorbed Skill:** Set up a working Climate, Environment, and Resource Chains environment with a repeatable workflow and verify it with a smoke test.
+
+**Core Techniques and First Projects in Climate, Environment, and Resource Chains**
+
+**Summary:** Hands-on core techniques of Climate, Environment, and Resource Chains applied to small realistic Global Supply Chains and Commodities projects, from inputs to outputs, with guided examples, quality checks, and iteration.
+
+**Absorbed Skill:** Execute core Climate, Environment, and Resource Chains techniques on small projects to produce correct working results.
+
+**Intermediate Patterns and Best Practices in Climate, Environment, and Resource Chains**
+
+**Summary:** Recurring patterns, idioms, and best practices that separate fragile Climate, Environment, and Resource Chains work from reliable work, including structuring, naming, reuse, and review habits.
+
+**Absorbed Skill:** Apply intermediate Climate, Environment, and Resource Chains patterns to structure reliable maintainable work.
+
+**Quality, Testing, and Troubleshooting in Climate, Environment, and Resource Chains**
+
+**Summary:** How to verify Climate, Environment, and Resource Chains work through testing, inspection, and systematic troubleshooting, diagnosing common failures, and preventing regressions.
+
+**Absorbed Skill:** Test, diagnose, and fix defects in Climate, Environment, and Resource Chains work and add checks that prevent regressions.
+
+**Integration and Real-World Application of Climate, Environment, and Resource Chains**
+
+**Summary:** Using Climate, Environment, and Resource Chains inside larger Global Supply Chains and Commodities workflows, connecting inputs and outputs to adjacent tools, data, APIs, and stakeholders under realistic constraints.
+
+**Absorbed Skill:** Integrate Climate, Environment, and Resource Chains outputs into a larger Global Supply Chains and Commodities workflow with correct handoffs.
+
+**Advanced Methods and Deep Dives in Climate, Environment, and Resource Chains**
+
+**Summary:** Advanced methods in Climate, Environment, and Resource Chains for hard cases, including trade-offs, internals, edge cases, and techniques experts reach for when basics are insufficient.
+
+**Absorbed Skill:** Select and apply advanced Climate, Environment, and Resource Chains methods to solve hard cases with explicit trade-offs.
+
+**Performance, Scale, and Optimization in Climate, Environment, and Resource Chains**
+
+**Summary:** Making Climate, Environment, and Resource Chains work fast, lean, and scalable through measurement, bottleneck analysis, optimization, and capacity planning without sacrificing correctness.
+
+**Absorbed Skill:** Measure and optimize Climate, Environment, and Resource Chains work for speed, cost, and scale while preserving correctness.
+
+**Security, Safety, and Reliability in Climate, Environment, and Resource Chains**
+
+**Summary:** Protecting Climate, Environment, and Resource Chains work against misuse, leaks, breakage, and unsafe failure through permissions, validation, safe defaults, and recovery planning.
+
+**Absorbed Skill:** Harden Climate, Environment, and Resource Chains work for security, safety, and reliable recovery from failure.
+
+**Collaboration, Documentation, and Handoff in Climate, Environment, and Resource Chains**
+
+**Summary:** Making Climate, Environment, and Resource Chains work team-usable through clear documentation, examples, review, versioning, and handoff that others can continue without tribal knowledge.
+
+**Absorbed Skill:** Document and hand off Climate, Environment, and Resource Chains work so a collaborator can continue without rework.
+
+**Production Practice and Case Studies in Climate, Environment, and Resource Chains**
+
+**Summary:** Realistic Global Supply Chains and Commodities case studies using Climate, Environment, and Resource Chains under production constraints, including incident handling, prioritization, communication, and lessons learned.
+
+**Absorbed Skill:** Deliver Climate, Environment, and Resource Chains results under production constraints and communicate status and lessons clearly.
+
+**Mastery, Portfolio, and Expert Judgment in Climate, Environment, and Resource Chains**
+
+**Summary:** Expert-level judgment in Climate, Environment, and Resource Chains, including scoping, estimation, tool selection, quality bars, portfolio proof, and knowing when to break rules deliberately.
+
+**Absorbed Skill:** Scope, judge, and deliver expert-level Climate, Environment, and Resource Chains work with portfolio-ready proof.
